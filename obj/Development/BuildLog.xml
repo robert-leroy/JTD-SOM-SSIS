@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>SOM Integration Project</Name>
+    <LastWriteTime>2018-10-13T22:43:55.0730431Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>hVGKapfM</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGE1kkzem0uNppUfIdoWegAAAAACAAAAAAAQZgAAAAEAACAAAAAo6p9wxTZ9kV6/WhlulKQm1Hme9hxdPh7NypgnINLuyQAAAAAOgAAAAAIAACAAAADOTmS2E4nk+6GJ9x7PfiljjqsIUm4/CrxQEYx3YwXDfjAAAABIV/ZWEhoA/EYMPOBJDeJd1mRbpnm0K6/a0tj8meTB7+pvhYHIbBCndIGTa/F0uXdAAAAAGdyKZyVwmmw7XJNWOzvafYVIXvrxCXxrCXmlxqNOrGfJ46eV2Pec2AW0TjYJRT8vlEab/mVI+V7k9CpfFvvB2w==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>SOM Integration Receive SOM File.dtsx</Name>
+      <LastWriteTime>2019-01-02T17:54:40.6704821Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>DWd8tigk</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGE1kkzem0uNppUfIdoWegAAAAACAAAAAAAQZgAAAAEAACAAAAAehli8qP+Zu6y72KGcUVPQa+sYfZZSOmsfkPIeayiUGQAAAAAOgAAAAAIAACAAAADFrIVDgau8apqIMyaEQ/wo2/vy2oqJHoelNeOXf5PVHzAAAAC99JBSmaiqKiosFW2i6tI0Md61wJhYdY2fX0TZzxTZJC6UGfySiUsfw8JjUtRjUVdAAAAA+056f76x5Kw8sJ14o5DHdK4jbumxw6YzuotfaCChl8FolrjI/kaQp9plj3cJZSR0m2/kJYM4BcurXo8L62yvKg==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>SOM Integration Integrate With P21.dtsx</Name>
+      <LastWriteTime>2019-01-02T17:54:40.7016557Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>wUIXX/gh</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGE1kkzem0uNppUfIdoWegAAAAACAAAAAAAQZgAAAAEAACAAAACwzGf+PQ1uFHrIhaGw1uzknH29W60YE65v5gVHS8q0JQAAAAAOgAAAAAIAACAAAADJwPj2llGe8AqKnUTUo9BLUuk32MHoeXCjpS/6nRgBGDAAAACVlZLbu87a7I0Vxz0BfyjoyRWALRy6XlMMGV3cvbeI2t6ChouDlleQ+BG9vB7cMXpAAAAASVDI6VfnriFGEsM/+g7793VVGO5Ma5cZjanXZxI5jNcJueNfZZWFa/SGMtXmrR9+o//yvhlIx699gH+1aIpRhQ==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
